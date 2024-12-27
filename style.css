@@ -1,0 +1,30 @@
+h1{
+    color: royalblue;
+    background-color: lightblue ;
+    text-align: center;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 19px;
+}
+table,th,td{
+    border: 2px black solid;
+        
+}
+img{
+    width: 400px;
+    height: 200px;
+}
+#head{
+    color: slateblue;
+}
+.part1{
+    background-color: mediumslateblue;
+    color: white;
+    margin: 40px 50px 60px 70px;
+    padding: 40px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGFcHOi9rrod7Uf0uazgxGWjouDJ1AxfJzlA&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
